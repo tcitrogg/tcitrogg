@@ -1,5 +1,8 @@
-### Yo!👋 i welcome thee
-#### 🐍 Python, 🌐 Web & Software Developer | 🚀 Aspiring Cybersecurity Engineer | Crafting code with elegance and securing the digital frontier 🛡️
+### I welcome thee 👋 I am a
+| 🐍 Python <br>
+| 🌐 Web & Software Developer <br>
+| 🚀 Aspiring Cybersecurity Engineer <br>
+| 🛡️ Crafting code with elegance and securing the digital frontier <br>
 
 [![My Skills](https://skillicons.dev/icons?i=python,golang,svelte,next,tailwind,html,css,js,ts,github&theme=light)](https://bnierimi.vercel.app)
 

@@ -7,6 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,golang,svelte,ts,tailwind,html,css,js,next,github&theme=light)](https://bnierimi.vercel.app)
 
 - 🌱 I’m currently learning Go programming language
+- 👯 I’m looking to collaborate on [t/Nefiti](https://github.com/tcitrogg/nefiti)
 - 💬 Ask me about Python Programming
 - 📫 How to reach me: Check my bio for my social media links
 - ⚡ Fun fact: Did you know my name is Radiance?

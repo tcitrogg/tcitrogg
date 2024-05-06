@@ -1,5 +1,5 @@
 ### I welcome thee 👋 I am a
-| 🐍 Python <br>
+| 🐍 Data scientist: Python <br>
 | 🌐 Web & Software Developer <br>
 | 🚀 Aspiring Cybersecurity Engineer <br>
 | 🛡️ Crafting code with elegance and securing the digital frontier <br>

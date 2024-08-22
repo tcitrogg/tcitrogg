@@ -6,7 +6,7 @@
 | 🚀 Aspiring Cybersecurity Engineer <br>
 | 🛡️ Crafting code with elegance and securing the digital frontier <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,golang,svelte,ts,tailwind,html,css,js,next,github&theme=light)](https://bnierimi.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,svelte,ts,tailwind,html,css,js,next,github&theme=light)](https://bnierimi.vercel.app)
 
 - 🌱 I’m currently learning Rust programming language
 - 👯 I’m looking to collaborate on [t/Nefiti](https://github.com/tcitrogg/nefiti)

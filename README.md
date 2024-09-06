@@ -6,12 +6,12 @@
 | 🚀 Aspiring Cybersecurity Engineer <br>
 | 🛡️ Crafting code with elegance and securing the digital frontier <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,rust,svelte,ts,tailwind,html,css,js,next,github&theme=light)](https://bnierimi.vercel.app)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,github,ts,svelte,tailwind,html,css,js,react,next&theme=light)](https://bnierimi.vercel.app)
 
 - 🌱 I’m currently learning Rust programming language
 - 👯 I’m looking to collaborate on [t/Nefiti](https://github.com/tcitrogg/nefiti)
 - 💬 Ask me about Python Programming
-- 📫 How to reach me: Check my bio for my social media links
+- 📫 How to reach me: Check my bio for my social media links && [https://bnierimi.vercel.app]
 - ⚡ Fun fact: Did you know my name is Radiance?
 
 <!-- ![bnierimi's Stats](https://github-readme-stats.vercel.app/api?username=bnierimi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) -->

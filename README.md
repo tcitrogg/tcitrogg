@@ -16,7 +16,7 @@
 
 <!-- ![bnierimi's Stats](https://github-readme-stats.vercel.app/api?username=bnierimi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true) -->
 
-_yours_ tcitrogg://tsurgeon
+_yours_ Es.Teach Tcitrogg
 
 <!--![](https://komarev.com/ghpvc/?username=bnierimi&style=flat-square) -->
 

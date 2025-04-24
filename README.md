@@ -1,7 +1,7 @@
 <!-- AI & Cyber security Engineer -->
 
 ### I welcome thee 👋 I am a
-| 🐍 Data scientist: Python <br>
+| 🐍 AI Engineer <br>
 | 🌐 Web & Software Developer <br>
 | 🚀 Aspiring Cybersecurity Engineer <br>
 | 🛡️ Crafting code with elegance and securing the digital frontier <br>

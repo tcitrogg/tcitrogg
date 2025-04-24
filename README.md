@@ -1,10 +1,10 @@
 <!-- AI & Cyber security Engineer -->
 
 ### I welcome thee 👋 I am a
-| 🐍 AI Engineer <br>
-| 🌐 Web & Software Developer <br>
-| 🚀 Aspiring Cybersecurity Engineer <br>
-| 🛡️ Crafting code with elegance and securing the digital frontier <br>
+🐍 AI Engineer <br>
+🌐 Web & Software Developer <br>
+🚀 Aspiring Cybersecurity Engineer <br>
+🛡️ Crafting code with elegance and securing the digital frontier <br>
 
 [![My Skills](https://skillicons.dev/icons?i=python,rust,github,ts,svelte,tailwind,react,next,html,css,js&theme=light)](https://bnierimi.vercel.app)
 
